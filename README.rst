@@ -7,7 +7,7 @@ RomPy
 - **License:** MIT
 - **Status:** Pre-Alpha
 - **GitHub:** https://github.com/shidarin/rompy
-- **Python Versions:** 2.7
+- **Python Versions:** 2.7, 3.4+
 
 Introduction
 ------------

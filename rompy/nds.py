@@ -10,7 +10,12 @@ REGEX_RELEASE_GROUP = re.compile(r"^[0-9]{4} - .*? \([EJU]\)(\(.*?\))" + EXTENSI
 
 
 def add_ds_dash(romdir):
-    """Add a dash to Nintendo DS releases that start with ####"""
+    """Add a dash to Nintendo DS releases that start with ####
+
+    Args:
+        romdir (str): The directory to run the renaming operation in.
+
+    """
     roms = [rom for rom in os.listdir(romdir) if rom[5] != '-']
     for rom in roms:
         if REGEX_NUMBERING.match(rom).group(1):

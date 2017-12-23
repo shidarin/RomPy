@@ -51,7 +51,7 @@ SAMPLE_ROMS_NO_GROUP = [
     "2178 - Kachou Shima Kousaku DS - Dekiru Otoko no Love & Success (J).7z",
     "4373 - Let's Play Flight Attendant (EU).zip",
     "2497 - Guitar Hero - On Tour (EU).zip",
-    "2114 - Bunnyz (E)(.7z",
+    "2114 - Bunnyz (E).7z",
     "0374 - Contact (J).zip",
     "3471 - Cosmopolitan - Total Relooking (FR).7z"
 ]
